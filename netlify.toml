@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build" 
+  publish = "dist" 
+
+[settings]
+  node_version = "16.6.0"
